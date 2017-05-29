@@ -196,7 +196,7 @@ F 1 "1N4148" H 8950 5950 50  0000 C CNN
 F 2 "Diodes_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8950 6050 50  0001 C CNN
 F 3 "" H 8950 6050 50  0001 C CNN
 	1    8950 6050
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L CONN_02X28 J1
@@ -920,4 +920,6 @@ Wire Wire Line
 	10250 2750 5950 2750
 Wire Wire Line
 	5950 2750 5950 3300
+Text Label 2700 2750 0    60   ~ 0
+RD
 $EndSCHEMATC
