@@ -5,4 +5,4 @@ Thanks to flopping for pictures and full schematic.
 
 This is a reduced version of PCB with a dip-switch for select between 4 banks of Memory.
 
-![Actual PCB](mini.jpg)
+![Actual PCB](mini.png)
